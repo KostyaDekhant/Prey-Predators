@@ -1,0 +1,11 @@
+C:\Users\Podor\Documents\GitHub\kursovik-c-\Praktika 1.001\Praktika 1.001\bin\Debug\Praktika 1.001.exe.config
+C:\Users\Podor\Documents\GitHub\kursovik-c-\Praktika 1.001\Praktika 1.001\bin\Debug\Praktika 1.001.exe
+C:\Users\Podor\Documents\GitHub\kursovik-c-\Praktika 1.001\Praktika 1.001\bin\Debug\Praktika 1.001.pdb
+C:\Users\Podor\Documents\GitHub\kursovik-c-\Praktika 1.001\Praktika 1.001\obj\Debug\Praktika 1.001.csproj.AssemblyReference.cache
+C:\Users\Podor\Documents\GitHub\kursovik-c-\Praktika 1.001\Praktika 1.001\obj\Debug\Praktika 1.001.csproj.SuggestedBindingRedirects.cache
+C:\Users\Podor\Documents\GitHub\kursovik-c-\Praktika 1.001\Praktika 1.001\obj\Debug\Praktika_1._001.Form1.resources
+C:\Users\Podor\Documents\GitHub\kursovik-c-\Praktika 1.001\Praktika 1.001\obj\Debug\Praktika_1._001.Properties.Resources.resources
+C:\Users\Podor\Documents\GitHub\kursovik-c-\Praktika 1.001\Praktika 1.001\obj\Debug\Praktika 1.001.csproj.GenerateResource.cache
+C:\Users\Podor\Documents\GitHub\kursovik-c-\Praktika 1.001\Praktika 1.001\obj\Debug\Praktika 1.001.csproj.CoreCompileInputs.cache
+C:\Users\Podor\Documents\GitHub\kursovik-c-\Praktika 1.001\Praktika 1.001\obj\Debug\Praktika 1.001.exe
+C:\Users\Podor\Documents\GitHub\kursovik-c-\Praktika 1.001\Praktika 1.001\obj\Debug\Praktika 1.001.pdb
